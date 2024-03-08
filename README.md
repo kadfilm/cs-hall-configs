@@ -11,3 +11,5 @@ Lux club : https://youtu.be/hGDFsa4xrfI
 
 Lux penthouse : https://youtu.be/3pGcrBmzu5c
 
+Matrix v2 : https://www.youtube.com/watch?v=_iZhnmOTLmQ | To use this config you need this pack https://github.com/kadfilm/kad_fxlights
+
