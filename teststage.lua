@@ -480,7 +480,7 @@
                 },
                 {
                     ['soundSyncType'] = SOUND_SYNC_TYPE.MID,
-                    ['hash'] = 'stg_rays_bar50_lsr_cd',
+                    ['hash'] = 'stg_rays_str50_lsr_cd',
                     ['position'] = vector3(-1425.06482, -1349.44189, 16.513),
                     ['rotation'] = vector3(-131.763, 0.001, 3.714),
                     ['heading'] = nil,
@@ -525,7 +525,7 @@
                 },
                 {
                     ['soundSyncType'] = SOUND_SYNC_TYPE.MID,
-                    ['hash'] = 'stg_rays_bar50_lsr_cd',
+                    ['hash'] = 'stg_rays_str50_lsr_cd',
                     ['position'] = vector3(-1444.95959, -1350.94116, 16.513),
                     ['rotation'] = vector3(-131.763, 0.001, 3.714),
                     ['heading'] = nil,
