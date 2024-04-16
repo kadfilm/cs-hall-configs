@@ -159,67 +159,68 @@
                     ['lodDistance'] = nil,
                     ['color'] = {255, 1, 1}
                 },
-
-                {
-                    ['soundSyncType'] = SOUND_SYNC_TYPE.BASS,
-                    ['hash'] = 'stg_strobe_spot',
-                    ['position'] = vector3(-1438.896, -1356.367, 5.762),
-                    ['rotation'] = vector3(0.000, -37.078, 153.570),
-                    ['heading'] = nil,
-                    ['lodDistance'] = nil,
-                    ['color'] = {255, 1, 1}
-                },
+                --I FIX THIS WHEN GET HOME!!!
+                -- {
+                --     ['soundSyncType'] = SOUND_SYNC_TYPE.BASS,
+                --     ['hash'] = 'stg_strobe_spot',
+                --     ['position'] = vector3(-1438.896, -1356.367, 5.762),
+                --     ['rotation'] = vector3(0.000, -37.078, 153.570),
+                --     ['heading'] = nil,
+                --     ['lodDistance'] = nil,
+                --     ['color'] = {255, 1, 1}
+                -- },
         
-                {
-                    ['soundSyncType'] = SOUND_SYNC_TYPE.LOW_MID,
-                    ['hash'] = 'stg_strobe_spot',
-                    ['position'] = vector3(-1438.896, -1356.367, 9.146),
-                    ['rotation'] = vector3(0.000, -37.078, 153.570),
-                    ['heading'] = nil,
-                    ['lodDistance'] = nil,
-                    ['color'] = {255, 1, 1}
-                },
+                -- {
+                --     ['soundSyncType'] = SOUND_SYNC_TYPE.LOW_MID,
+                --     ['hash'] = 'stg_strobe_spot',
+                --     ['position'] = vector3(-1438.896, -1356.367, 9.146),
+                --     ['rotation'] = vector3(0.000, -37.078, 153.570),
+                --     ['heading'] = nil,
+                --     ['lodDistance'] = nil,
+                --     ['color'] = {255, 1, 1}
+                -- },
         
-                {
-                    ['soundSyncType'] = SOUND_SYNC_TYPE.HIGH_MID,
-                    ['hash'] = 'stg_strobe_spot',
-                    ['position'] = vector3(-1438.896, -1356.367, 13.574),
-                    ['rotation'] = vector3(0.000, -37.078, 153.570),
-                    ['heading'] = nil,
-                    ['lodDistance'] = nil,
-                    ['color'] = {255, 1, 1}
-                },
+                -- {
+                --     ['soundSyncType'] = SOUND_SYNC_TYPE.HIGH_MID,
+                --     ['hash'] = 'stg_strobe_spot',
+                --     ['position'] = vector3(-1438.896, -1356.367, 13.574),
+                --     ['rotation'] = vector3(0.000, -37.078, 153.570),
+                --     ['heading'] = nil,
+                --     ['lodDistance'] = nil,
+                --     ['color'] = {255, 1, 1}
+                -- },
         
-                --test strobe left wing
-                {
-                    ['soundSyncType'] = SOUND_SYNC_TYPE.BASS,
-                    ['hash'] = 'stg_strobe_spot',
-                    ['position'] = vector3(-1430.745, -1356.188, 5.762),
-                    ['rotation'] = vector3(-0.000, -37.078, 44.251),
-                    ['heading'] = nil,
-                    ['lodDistance'] = nil,
-                    ['color'] = {255, 1, 1}
-                },
+                --test strobe left wing I FIX THIS WHEN GET HOME!!!
+                -- {
+                --     ['soundSyncType'] = SOUND_SYNC_TYPE.BASS,
+                --     ['hash'] = 'stg_strobe_spot',
+                --     ['position'] = vector3(-1430.745, -1356.188, 5.762),
+                --     ['rotation'] = vector3(-0.000, -37.078, 44.251),
+                --     ['heading'] = nil,
+                --     ['lodDistance'] = nil,
+                --     ['color'] = {255, 1, 1}
+                -- },
         
-                {
-                    ['soundSyncType'] = SOUND_SYNC_TYPE.LOW_MID,
-                    ['hash'] = 'stg_strobe_spot',
-                    ['position'] = vector3(-1430.745, -1356.188, 9.146),
-                    ['rotation'] = vector3(-0.000, -37.078, 44.251),
-                    ['heading'] = nil,
-                    ['lodDistance'] = nil,
-                    ['color'] = {255, 1, 1}
-                },
+                -- {
+                --     ['soundSyncType'] = SOUND_SYNC_TYPE.LOW_MID,
+                --     ['hash'] = 'stg_strobe_spot',
+                --     ['position'] = vector3(-1430.745, -1356.188, 9.146),
+                --     ['rotation'] = vector3(-0.000, -37.078, 44.251),
+                --     ['heading'] = nil,
+                --     ['lodDistance'] = nil,
+                --     ['color'] = {255, 1, 1}
+                -- },
         
-                {
-                    ['soundSyncType'] = SOUND_SYNC_TYPE.HIGH_MID,
-                    ['hash'] = 'stg_strobe_spot',
-                    ['position'] = vector3(-1430.745, -1356.188, 13.574),
-                    ['rotation'] = vector3(-0.000, -37.078, 44.251),
-                    ['heading'] = nil,
-                    ['lodDistance'] = nil,
-                    ['color'] = {255, 1, 1}
-                },
+                -- {
+                --     ['soundSyncType'] = SOUND_SYNC_TYPE.HIGH_MID,
+                --     ['hash'] = 'stg_strobe_spot',
+                --     ['position'] = vector3(-1430.745, -1356.188, 13.574),
+                --     ['rotation'] = vector3(-0.000, -37.078, 44.251),
+                --     ['heading'] = nil,
+                --     ['lodDistance'] = nil,
+                --     ['color'] = {255, 1, 1}
+                -- },
+                --I FIX THIS WHEN GET HOME!!!
         
                             --other
         
